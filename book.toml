@@ -1,5 +1,5 @@
 [book]
-title        = "变向能力场地测试在足球助理裁判员中的适用性"
+title        = "身体成分对足球裁判员运动表现的影响"
 authors      = ["zz"]
 language     = "zh"
 multilingual = false
@@ -7,4 +7,4 @@ src = "src"
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://zzzxj12138.github.io/03/"
+git-repository-url = "https://zzzxj12138.github.io/index/"
